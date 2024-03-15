@@ -1,4 +1,3 @@
-// main array for working
 const a = [50, 107, 'jack', 83, 'killer', 'son', true];
 // i just filter the array
 const aFilter = a.filter(arrayFilter => typeof arrayFilter === 'string');
